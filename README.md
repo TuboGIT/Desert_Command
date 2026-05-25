@@ -15,4 +15,4 @@ You need to left-click on the unit you want to move or attack.
 
 When you run out of moves or have arranged the unit as you wish, press the "TUR BİTİR" button and arrange it again.
 
-
+a python game btw
